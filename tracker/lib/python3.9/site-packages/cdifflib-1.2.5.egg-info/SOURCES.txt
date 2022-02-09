@@ -1,0 +1,10 @@
+README.md
+_cdifflib.c
+_cdifflib3.c
+cdifflib.py
+setup.cfg
+setup.py
+cdifflib.egg-info/PKG-INFO
+cdifflib.egg-info/SOURCES.txt
+cdifflib.egg-info/dependency_links.txt
+cdifflib.egg-info/top_level.txt
