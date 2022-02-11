@@ -55,7 +55,7 @@ while True:
             # smtp_server = "smtp.gmail.com"
             # sender_email = "travelregulations.khamuqbil@gmail.com"  # Enter your address
             # receiver_email = "khamuqbil@gmail.com"  # Enter receiver address
-            # password = ("Kmkm@911")
+            # password = ("")
             # message = """\
             # Subject: Hi there
             #
